@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "看看下班没",
+  "version": "1.0",
+  "description": "倒计时下班时间,显示工作进度和收入",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "https://v1.jinrishici.com/"
+  ]
+}
